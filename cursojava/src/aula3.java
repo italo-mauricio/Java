@@ -13,8 +13,13 @@ public class aula3 {
         // Tipos de dados
 
         String login = "italo";
-
+        int number1 = 10;
+        double percent = 24.35;
+        boolean a = true;
         System.out.println(login);
+        System.out.println(number1);
+        System.out.println(percent);
+        System.out.println(a);
     }
 }
 
