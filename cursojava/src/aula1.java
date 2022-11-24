@@ -2,9 +2,10 @@ import java.util.Date;
 
 public class aula1 {
     public static void main(String[] args) throws Exception {
-        System.out.println("iiio"); 
-        Date data = new Date();
-        System.out.println(data);
+        System.out.println("Sistema"); 
+        Date relogio = new Date();
+        System.out.println("A hora do sistema é: ");
+        System.out.println(relogio.toString());
     }
     
 }
