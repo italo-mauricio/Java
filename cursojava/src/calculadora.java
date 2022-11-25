@@ -7,10 +7,15 @@ public class calculadora {
         int x = Integer.parseInt(args[1]);
         int y = Integer.parseInt(args[2]);
 
-        sum(x, y);
-        menos(x, y);
-        multi(x, y);
-        div(x , y);
+        if(args[0].equals("somar")){
+            sum(x, y);
+        } else if(args[1].equals("subtrair")){
+            menos(x, y);
+        } else if(args[2].equals("multiplicar")){
+            multi(x, y);
+        } else if(args[3].equals("dividir")){
+            div(x, y);
+        }
           
     }
 
