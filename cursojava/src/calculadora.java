@@ -9,12 +9,14 @@ public class calculadora {
 
         if(args[0].equals("somar")){
             sum(x, y);
-        } else if(args[1].equals("subtrair")){
+        } else if(args[0].equals("subtrair")){
             menos(x, y);
-        } else if(args[2].equals("multiplicar")){
+        } else if(args[0].equals("multiplicar")){
             multi(x, y);
-        } else if(args[3].equals("dividir")){
+        } else if(args[0].equals("dividir")){
             div(x, y);
+        } else {
+            System.out.println("ERROR");
         }
           
     }
