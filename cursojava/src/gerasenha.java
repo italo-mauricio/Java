@@ -3,7 +3,7 @@ import java.util.Random;
 public class gerasenha{
 
 
-    // teste1
+    // teste11
     public static void main(String[] args) {
         Random gerador = new Random();
         // utilizando o while
