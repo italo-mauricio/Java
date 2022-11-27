@@ -1,4 +1,5 @@
 import com.italomauricio.randomsenha.User;
+import java.util.Random;
 
 import java.util.Random;
 
