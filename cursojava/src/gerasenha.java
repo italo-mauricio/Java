@@ -1,8 +1,10 @@
+import com.italomauricio.randomsenha.User;
+
 import java.util.Random;
 
 public class gerasenha{
 
-
+    User user = new User();
     // teste1111
     public static void main(String[] args) {
         Random gerador = new Random();
