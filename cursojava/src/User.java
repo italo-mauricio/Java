@@ -9,7 +9,5 @@ public class User {
         String name = scanner.nextLine();
         System.out.println("Ola: " + name);
 
-
-
     }
 }
