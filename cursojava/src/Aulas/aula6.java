@@ -15,6 +15,10 @@ public class aula6 {
         float f = 10.232f;  // 32 bits
         double d = 19.232;  // 64 bits
 
+        // não primitivo
+
+        String character = "str";
+
 
         
     }
