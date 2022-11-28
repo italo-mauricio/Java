@@ -1,3 +1,5 @@
+package Aulas;
+
 import java.util.Scanner;
 
 // trabalhando com entrada de dados

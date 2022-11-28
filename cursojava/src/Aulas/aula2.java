@@ -1,3 +1,4 @@
+package Aulas;
 
 public class aula2{
     // armazenar propriedades e variáveis em java

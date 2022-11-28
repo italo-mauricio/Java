@@ -1,3 +1,5 @@
+package Aulas;
+
 public class VarImutaveis {
 
     public static void main(String[] args) {

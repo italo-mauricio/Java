@@ -1,6 +1,6 @@
-import com.italomauricio.randomsenha.User;
-import java.util.Random;
+package Aulas;
 
+import com.italomauricio.app.User;
 import java.util.Random;
 
 public class gerasenha{
