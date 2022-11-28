@@ -17,7 +17,7 @@ public class aula6 {
 
         // não primitivo
 
-        String character = "str";
+        String character2 = "str";
 
 
         
