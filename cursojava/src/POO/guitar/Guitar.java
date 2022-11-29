@@ -1,4 +1,4 @@
-package POO;
+package POO.guitar;
 
 public class Guitar {
 
