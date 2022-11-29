@@ -1,5 +1,14 @@
 package POO;
 
+/*
+ Classe é o molde que você define cada objeto vai ter;
+
+ Obejto é o que vai ser instanciado
+
+
+
+
+ */
 public class Intro {
     public static void main(String[] args) {
         Guitar fender = new Guitar();
