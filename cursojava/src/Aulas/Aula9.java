@@ -14,5 +14,6 @@ public class Aula9 {
         System.out.println(x.trim());  // remove os espaços
         System.out.println(x.substring(9));  // busca a frase a partir do caractere desejado
         System.out.println(x.equals("ola"));   // comparação
+
     }
 }
