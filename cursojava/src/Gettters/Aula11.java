@@ -13,6 +13,11 @@ public class Aula11 {
 
             System.out.println(userA.getFirstName());
 
+            User userB = new User();
+            userB.setLastName ("Mauricio");
+
+            System.out.println(userB.getLastName());
+
         }
     }
 
