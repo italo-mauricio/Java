@@ -1,20 +1,22 @@
 package Gettters;
 
-import POO.user.Address;
-
 public class User {
 
-        public String firstName;
+        private String firstName;
         public String lastName;
-        public String fullName;
-        public Address address;
 
-        public String getFullName(){
-            fullName =  firstName + " " + lastName;
-            return fullName;
-        }
+    public void setFirstName(String firstName) {
 
+        this.firstName = firstName.toUpperCase();
 
     }
+    public String getFirstName(){
+        return firstName;
+    }
+
+}
+
+
+
 
 

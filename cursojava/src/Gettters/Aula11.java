@@ -9,7 +9,10 @@ public class Aula11 {
         //this.firstName = firstName;
         public static void main(String[] args) {
             User userA = new User();
-            userA.firstName = "Italo";
+            userA.setFirstName ("italo");
+
+            System.out.println(userA.getFirstName());
+
         }
     }
 
