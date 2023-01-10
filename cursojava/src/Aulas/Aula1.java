@@ -2,7 +2,7 @@ package Aulas;//              INTRODUÇÃO A LINGUAGEM JAVA
 
 import java.util.Date;
 
-public class aula1 {
+public class Aula1 {
     public static void main(String[] args) throws Exception {
         System.out.println("Sistema"); 
         Date relogio = new Date();
