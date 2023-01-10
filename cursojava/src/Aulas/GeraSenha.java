@@ -3,7 +3,7 @@ package Aulas;
 import com.italomauricio.app.User;
 import java.util.Random;
 
-public class gerasenha{
+public class GeraSenha{
 
     User user = new User();
     // teste1111

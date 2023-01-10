@@ -1,6 +1,6 @@
 package Aulas;
 
-public class aula4{
+public class Aula4 {
 
     public static void main(String[] args) {
         sum( 10, 20);  // argumentos

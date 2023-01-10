@@ -1,6 +1,6 @@
 package Aulas;
 
-public class aula2{
+public class Aula2{
     // armazenar propriedades e variáveis em java
     public static void main(String[] args){
         System.out.println(2 + 2);
